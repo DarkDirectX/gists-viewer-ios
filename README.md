@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/DarkDirectX/gists-viewer-ios.svg?branch=master)](https://travis-ci.com/DarkDirectX/gists-viewer-ios)
