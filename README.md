@@ -1,1 +1,3 @@
 [![Build Status](https://travis-ci.com/DarkDirectX/gists-viewer-ios.svg?branch=master)](https://travis-ci.com/DarkDirectX/gists-viewer-ios)
+[![codebeat badge](https://codebeat.co/badges/10585118-424f-4f7e-9ba3-a44b7bd9684a)](https://codebeat.co/projects/github-com-darkdirectx-gists-viewer-ios-master)
+[![codecov](https://codecov.io/gh/DarkDirectX/gists-viewer-ios/branch/master/graph/badge.svg)](https://codecov.io/gh/DarkDirectX/gists-viewer-ios)
