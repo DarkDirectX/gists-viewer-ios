@@ -9,7 +9,7 @@ branches:
     - develop
 
 script:
-  - xcodebuild -scheme GistsViewerTests -enableCodeCoverage YES -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 6,OS=12.2' test | xcpretty
+  - xcodebuild -scheme GistsViewer -enableCodeCoverage YES -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 6,OS=12.2' build test | xcpretty
 
 after_success:
   - bash <(curl -s https://codecov.io/bash) -t {$CODECOV_TOKEN}
